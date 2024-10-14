@@ -1,0 +1,115 @@
+new treasuretable "Gold_Pocket_Poor"
+CanMerge 1
+new subtable "9,2;18,1"
+object category "T_Gold_Meager",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Pocket_Modest"
+CanMerge 1
+new subtable "18,1"
+object category "Gold",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Pocket_Normal"
+CanMerge 1
+new subtable "36,1"
+object category "Gold",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Pocket_Wealthy"
+CanMerge 1
+new subtable "90,1;99,1;108,1;117,1"
+object category "Gold",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Pocket_Opulent"
+CanMerge 1
+new subtable "180,1;225,1;270,1"
+object category "Gold",1,0,0,0,0,0,0,0
+
+
+new treasuretable "Gold_Stash_Poor"
+CanMerge 1
+new subtable "9,1"
+object category "T_Gold_Stash_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Modest"
+CanMerge 1
+new subtable "36,1"
+object category "T_Gold_Stash_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Normal"
+CanMerge 1
+new subtable "72,1"
+object category "T_Gold_Stash_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Wealthy"
+CanMerge 1
+new subtable "180,1"
+object category "T_Gold_Stash_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Opulent"
+CanMerge 1
+new subtable "360,1"
+object category "T_Gold_Stash_Part",1,0,0,0,0,0,0,0
+
+
+
+
+new treasuretable "Gold_Trader_Poor"
+CanMerge 1
+new subtable "27,1;36,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Trader_Modest"
+CanMerge 1
+new subtable "54,1;63,1;72,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Trader_Normal"
+CanMerge 1
+new subtable "90,1;99,1;108,1;117,1;126,1;135,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Trader_Wealthy"
+CanMerge 1
+new subtable "198,1;225,1;243,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Trader_ExtremelyRich"
+CanMerge 1
+new subtable "540,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
+
+
+new treasuretable "Gold_Combat_Leader_Weak"
+CanMerge 1
+new subtable "9,1"
+object category "T_Gold_Stash_Modest",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Combat_Leader_Medium"
+CanMerge 1
+new subtable "9,1"
+object category "T_Gold_Stash_Normal",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Combat_Leader_Strong"
+CanMerge 1
+new subtable "9,1"
+object category "T_Gold_Stash_Wealthy",1,0,0,0,0,0,0,0
+
+
+new treasuretable "Gold_QuestReward_Small"
+CanMerge 1
+new subtable "9,1"
+object category "T_ST_Gold_QuestReward_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_QuestReward_Normal"
+CanMerge 1
+new subtable "18,1"
+object category "T_ST_Gold_QuestReward_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_QuestReward_Big"
+CanMerge 1
+new subtable "27,1"
+object category "T_ST_Gold_QuestReward_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_QuestReward_Wealthy"
+CanMerge 1
+new subtable "9,1"
+object category "T_Gold_QuestReward_Big",1,0,0,0,0,0,0,0

@@ -1,0 +1,19 @@
+new treasuretable "Gold_Trader_Poor"
+new subtable "12,1;16,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Trader_Modest"
+new subtable "24,1;28,1;32,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Trader_Normal"
+new subtable "40,1;44,1;48,1;52,1;56,1;60,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Trader_Wealthy"
+new subtable "88,1;100,1;108,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Trader_ExtremelyRich"
+new subtable "240,1"
+object category "T_ST_Gold_Trader_Part",1,0,0,0,0,0,0,0
