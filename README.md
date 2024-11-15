@@ -10,7 +10,7 @@ More [gold](https://bg3.wiki/wiki/Gold) from pickpocketing, hidden stashes, merc
 
 ## Optional Files
 
-Add-ons from optional files section can be used together with main files to adjust specific gold group value instead of all of them.
+Add-ons from optional files section can be used alone or together with main files to adjust specific gold group value instead of all of them.
 
 Current list of add-ons:
 
@@ -44,6 +44,11 @@ I tested mod as much as I could and should be no problems, but if something is n
 Anytime. This mod leaves nothing in the save.
 
 Note that because of the way the game handles objects in the world, if an object is loaded on map before the mod is installed, its properties will be frozen, so the gold will also be frozen. You will need to start a new game or a new act for the gold from enemies to work.
+
+## Credits
+
+* 🍀 [Norbyte](https://github.com/Norbyte) for [Script Extender](https://github.com/Norbyte/bg3se) and many online tools.
+* 🍀 [ShinyHobo](https://github.com/ShinyHobo) for [Baldur's Gate 3 Modder's Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool).
 
 ## Permissions
 
